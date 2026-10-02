@@ -1,0 +1,22 @@
+{
+    "organizations": [
+      {
+        "domain_names": [
+          "metricpup.com"
+        ],
+        "name": "Metricpup"
+      },
+      {
+        "domain_names": [
+          "devhub.com"
+        ],
+        "name": "Devhub"
+      },
+      {
+        "domain_names": [
+          "weekend.com"
+        ],
+        "name": "Weekend"
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "conversations": [
+    {
+      "subject": "New version of the app keeps crashing",
+      "user_email": "lucas.bell@metricpup.com",
+      "comments": [
+        {
+          "author": "customer",
+          "content": "Hey, not sure what's changed or going on but we haven't changed anything on our side since the last update and now my team is getting constant crashes and seeing this error: thread 'worker-3' panicked at 'attempted to divide by zero while processing request id 42', src/processor.rs:212:27. Can you help us figure out what's going on here? I'm kinda getting hung out to dry rn :("
+        }
+      ],
+      "should_close": false
+    }
+  ]
+} 

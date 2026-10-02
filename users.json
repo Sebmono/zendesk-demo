@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "first_name": "Lucas",
+      "last_name": "Bell",
+      "organization": "Metricpup",
+      "email": "lucas.bell@metricpup.com"
+    },
+    {
+      "first_name": "Scarlett",
+      "last_name": "Gomez",
+      "organization": "Metricpup",
+      "email": "scarlett.gomez@metricpup.com"
+    },
+    {
+      "first_name": "Henry",
+      "last_name": "Kelly",
+      "organization": "Metricpup",
+      "email": "henry.kelly@metricpup.com"
+    },
+    {
+      "first_name": "Riley",
+      "last_name": "Black",
+      "organization": "Devhub",
+      "email": "riley.black@devhub.com"
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Schmidt",
+      "organization": "Devhub",
+      "email": "nicholas.schmidt@devhub.com"
+    },
+    {
+      "first_name": "Aubrey",
+      "last_name": "Olson",
+      "organization": "Devhub",
+      "email": "aubrey.olson@devhub.com"
+    },
+    {
+      "first_name": "Nolan",
+      "last_name": "Mckinney",
+      "organization": "Weekend",
+      "email": "nolan.mckinney@weekend.com"
+    },
+    {
+      "first_name": "Hailey",
+      "last_name": "Bryan",
+      "organization": "Weekend",
+      "email": "hailey.bryan@weekend.com"
+    },
+    {
+      "first_name": "Xavier",
+      "last_name": "Guerrero",
+      "organization": "Weekend",
+      "email": "xavier.guerrero@weekend.com"
+    }
+  ]
+} 

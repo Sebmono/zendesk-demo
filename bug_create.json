@@ -1,0 +1,15 @@
+{
+  "conversations": [
+    {
+      "subject": "Critical error encountered after most recent update",
+      "user_email": "scarlett.gomez@metricpup.com",
+      "comments": [
+        {
+          "author": "customer",
+          "content": "We've been experiencing critical errors after the most recent update. The app is no longer functioning properly and we're unable to process payments. We need a resolution as soon as possible, here's the bug we're seeing: thread 'main' panicked at 'config file missing key `database.url`', src/config.rs:87:13"
+        }
+      ],
+      "should_close": false
+    }
+  ]
+} 

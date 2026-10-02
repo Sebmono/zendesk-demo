@@ -1,0 +1,15 @@
+{
+  "conversations": [
+    {
+      "subject": "Missing payment feature we were promised during sales demo",
+      "user_email": "nicholas.schmidt@devhub.com",
+      "comments": [
+        {
+          "author": "customer",
+          "content": "We signed up for your Enterprise plan last month after a sales demo where we were explicitly told that we could process international payments in multiple currencies. Now that we're trying to set this up, we can't find this feature anywhere. Your support documentation only mentions USD payments. We specifically chose your platform over competitors because of this feature. This feels like a bait and switch. We need this feature immediately or we'll need to discuss cancellation options."
+        }
+      ],
+      "should_close": false
+    }
+  ]
+} 

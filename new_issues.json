@@ -1,0 +1,7 @@
+{
+    "ticket": {
+      "subject":   "I need help!",
+      "comment":   { "body": "Please help me" },
+      "requester": { "name": "<INSERT_NAME>", "email": "<INSERT_EMAIL>" }
+    }
+  }

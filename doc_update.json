@@ -1,0 +1,15 @@
+{
+  "conversations": [
+    {
+      "subject": "OAuth protocol support question",
+      "user_email": "lucas.bell@metricpup.com",
+      "comments": [
+        {
+          "author": "customer",
+          "content": "The latest release notes say that you've deprecated support for OAuth 1.x, but I'm still seeing it as supported in your docs - do you support it or not?"
+        }
+      ],
+      "should_close": false
+    }
+  ]
+} 

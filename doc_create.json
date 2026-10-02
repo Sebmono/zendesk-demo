@@ -1,0 +1,15 @@
+{
+  "conversations": [
+    {
+      "subject": "No docs for Synthetic Monitoring???",
+      "user_email": "henry.kelly@metricpup.com",
+      "comments": [
+        {
+          "author": "customer",
+          "content": "Hey, the new release notes say that you've added Synthetic Monitoring in the most recent release, but I don't know how to create or configure any of the synthetic tests and there's no mention of it in the docs."
+        }
+      ],
+      "should_close": false
+    }
+  ]
+} 
